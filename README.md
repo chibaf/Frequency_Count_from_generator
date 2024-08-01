@@ -2,8 +2,17 @@
 read_wave_from_generator
 
 ## usage
+
+MacOS
+
 <pre>
   python3 read_s.py /dev/tty.usbmodem1201 57600
+</pre>
+
+Raspberry Pi
+
+<pre>
+  python3 waveplot.py /dev/ttyACM0 57600
 </pre>
 
 ## ref
