@@ -1,6 +1,8 @@
 # read_wave_from_generator
 read_wave_from_generator
 
+<img width="711" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/760096ad-51e3-4bcc-a881-cd644b0e52d5">
+
 ## usage
 
 MacOS
