@@ -16,6 +16,6 @@ while True:
   data.pop(-1)
   data.insert(0,d)
   plt.clf()
-  plt.ylim([400.0,600.0])
+  #plt.ylim([2000.0,3000.0])
   plt.plot(x,data)
   plt.pause(0.1)
