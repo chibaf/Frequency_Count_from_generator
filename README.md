@@ -2,6 +2,15 @@
 
 <img width="711" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/760096ad-51e3-4bcc-a881-cd644b0e52d5">
 
+<pre>
+  Parts:
+  NPN transistor 2N3904 x 1
+  Schmitt trigger inverter SN74HC04N x 1
+  resister 470K Ohm x 1
+  resister 3.3K Ohm x 1
+  capacitor 0.1 micro F x 2
+</pre>
+
 ## usage
 
 Read serial
