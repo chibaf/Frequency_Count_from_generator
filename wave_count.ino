@@ -1,7 +1,7 @@
 #include <FreqCount.h>
 
 void setup() {
-  Serial.begin(2000000);
+  Serial.begin(57600);
   FreqCount.begin(1000);
 }
 
